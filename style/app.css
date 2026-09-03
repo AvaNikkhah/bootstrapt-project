@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "vazir";
+    src: url(../fonts/Vazir-Bold.woff2);
+}
+
+body{
+    font-family: "vazir";
+}
+
+.col-4{
+    direction: rtl;
+}
+
+
+.icon {
+    color: rgb(13, 110, 253);
+    background-color: rgb(235, 234, 251);
+    display: inline;
+    padding: 15px;
+    border-radius: 15px;
+
+
+        max-width: 55px;
+    align-self: center;
+}
+
+.section2{
+    background-color: #dee2e6;
+}
+
+.card-primary{
+    color: aliceblue;
+    background-color: #00008B;
+}
+
+.footer-section{
+background-color: #F0F8FF;
+}
+
+ul{
+list-style: none;
+}
+
+.a-footer{
+    text-decoration: none;
+    color: black;
+}
+
+.a-footer:hover{
+    color: cadetblue;
+}
+
+
+.footer-title{
+    border-bottom: 3px solid black;
+    height: 35px;
+    display: inline-block;
+}
+
+
+ul{
+    padding: 0;
+    margin: 0;
+}
